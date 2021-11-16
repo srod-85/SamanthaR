@@ -1,1 +1,1 @@
-Welcome to the SamanthaR repository
+Welcome to my README file
