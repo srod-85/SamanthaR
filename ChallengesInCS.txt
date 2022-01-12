@@ -1,0 +1,107 @@
+
+//Let's Echo
+
+Console.WriteLine("HELLO");
+
+
+
+//Personalized Echo
+
+Console.WriteLine("Enter your name");
+
+string userName = Console.ReadLine();
+
+Console.WriteLine("Welcome " + userName);
+
+
+
+
+//Looping with Numbers
+int i;
+for (i = 1; i <= 50; i++){
+	Console.WriteLine(i);
+}
+
+
+//Looping and Skipping
+int j;
+for (j = 1; j <= 99; j+=2){
+	Console.WriteLine(j);
+}
+
+
+
+//Getting started with conditionals
+
+Console.WriteLine("Enter 'Y' for 'YES', or 'N' for 'NO'");
+
+string userAnswer = Console.ReadLine();
+
+if(userAnswer == "Y" || userAnswer == "y"){
+	Console.WriteLine("YES");
+}
+else if(userAnswer == "N" || userAnswer == "n"){
+	Console.WriteLine("NO");
+}
+else {
+	Console.WriteLine("You entered an unrecognized response.");
+}
+
+
+
+//Comparing Numbers
+
+Console.WriteLine("Enter a value for X");
+
+int x = Console.ReadLine();
+
+Console.WriteLine("X is " + x + "\n\n Enter a value for Y.");
+
+int y = Console.ReadLine();
+
+Console.WriteLine("Y is " + y);
+
+if(x < y) {
+	Console.WriteLine("X is less than Y");
+}
+else if(x > y) {
+	Console.WriteLine("X is greater than Y");
+}
+else {
+	Console.WriteLine("X is equal to Y");
+}
+
+
+//More on Conditionals
+
+Console.WriteLine("Let's make a triangle! \n\n Enter a length for side A");
+
+double sideA = Convert.ToDouble(Console.ReadLine());
+
+Console.WriteLine("Side A is " + sideA + " units long. \n\n Enter a length for side B");
+
+double sideB = Convert.ToDouble(Console.ReadLine());
+
+Console.WriteLine("Side B is " + sideB + " units long. \n\n Enter a length for side C");
+
+double sideC = Convert.ToDouble(Console.ReadLine());
+
+Console.WriteLine("Side C is " + sideC + " units long. \n");
+
+if(sideA == sideB && sideB == sideC){
+	Console.WriteLine("We've made an EQUILATERAL triangle!");
+}
+else if(sideA == sideB || sideB == sideC || sideC == sideA){
+	Console.WriteLine("We've made an ISOSCELES triangle!");
+}
+else {
+	Console.WriteLine("We've made a SCALENE triangle!");
+}
+
+
+
+
+
+
+//Compute the Average
+//????????

@@ -1,0 +1,80 @@
+QC questions
+
+What is bash shell:
+	- The bash terminal we're using
+
+How would you create a bash script
+	- touch <filename>
+
+Difference between relative and absolute file path
+
+
+Where are root and home directories located ##################
+	-
+
+What is shebang syntax
+	- #!/user/bin/bash : tells the compiler what language we're using, the address is the bash path in the local file
+
+What command is used to search for text in a file
+	- grep "string" target.file
+	- find -name “*.txt"
+	- The main difference between grep and find command in UNIX is that the grep is a command that helps to search content and display them according to the user-specified regular expression while the find command helps to search and locate files according to the given criteria.
+
+
+Difference between terminal and shell
+	- A terminal is a text input and output environment. ... The shell is the program that actually processes commands and outputs results
+
+Define chmod, how would you change a file to read only
+	- Modifies Linux file permissions. Control who can access files, search directories, and run scripts using the Linux’s chmod command. read only 0=no permission 444 editable is 777execute,read,and write  1 execute 2 write 4 read [0]user [1]group [3]global  add up the permission numbers to fit into the index location
+	- chemod 444 filename.txt
+	
+
+What is the purpose of scripting
+	- Used to run a set of commands in order to automate the execution of tasks
+
+How are cd and chmod different
+	- cd == change directory
+	- chmod == change file permission
+
+How can you edit a file in Bash
+	- with nano and VIM or any other text editor
+
+What is nano and vim
+	- text editors accessible from Git Bash
+
+What is ssh
+	- secure shell; secure socket shell
+
+
+Difference between ls and mkdir
+	- ls lists contents of a directory
+	- mkdir creates a directory
+
+
+Difference between touch and cat command
+	- touch creates a file
+	- cat prints the raw code (will print commands)
+
+
+What is C#
+	- Object Oriented programming language in the dotNet framework
+
+
+Difference between explicit and implicit types in C#
+	- 
+
+What is whoami?
+	- Displays user, group and privileges information for the user who is currently logged on to the local system.
+
+What is a way to share code with multiple people.
+	- Git Hub
+
+Whats the difference between git and github.
+	- Git is the version control software for tracking changes in any set of files
+	- Git Hub is the landing
+
+Give examples of c# Data Types
+	- Integer, double, float, decimal, string
+
+What do you know about C#?
+	-  C# is a general-purpose, multi-paradigm programming language. C# encompasses static typing, strong typing, lexically scoped, imperative, declarative, functional, generic, object-oriented (class-based), and component-oriented programming disciplines.

@@ -1,0 +1,15 @@
+C:\Users\roder\Revature\SamanthaR\StringManipulation\bin\Debug\net6.0\MyThirdProject.exe
+C:\Users\roder\Revature\SamanthaR\StringManipulation\bin\Debug\net6.0\MyThirdProject.deps.json
+C:\Users\roder\Revature\SamanthaR\StringManipulation\bin\Debug\net6.0\MyThirdProject.runtimeconfig.json
+C:\Users\roder\Revature\SamanthaR\StringManipulation\bin\Debug\net6.0\MyThirdProject.dll
+C:\Users\roder\Revature\SamanthaR\StringManipulation\bin\Debug\net6.0\ref\MyThirdProject.dll
+C:\Users\roder\Revature\SamanthaR\StringManipulation\bin\Debug\net6.0\MyThirdProject.pdb
+C:\Users\roder\Revature\SamanthaR\StringManipulation\obj\Debug\net6.0\MyThirdProject.csproj.AssemblyReference.cache
+C:\Users\roder\Revature\SamanthaR\StringManipulation\obj\Debug\net6.0\MyThirdProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roder\Revature\SamanthaR\StringManipulation\obj\Debug\net6.0\MyThirdProject.AssemblyInfoInputs.cache
+C:\Users\roder\Revature\SamanthaR\StringManipulation\obj\Debug\net6.0\MyThirdProject.AssemblyInfo.cs
+C:\Users\roder\Revature\SamanthaR\StringManipulation\obj\Debug\net6.0\MyThirdProject.csproj.CoreCompileInputs.cache
+C:\Users\roder\Revature\SamanthaR\StringManipulation\obj\Debug\net6.0\MyThirdProject.dll
+C:\Users\roder\Revature\SamanthaR\StringManipulation\obj\Debug\net6.0\ref\MyThirdProject.dll
+C:\Users\roder\Revature\SamanthaR\StringManipulation\obj\Debug\net6.0\MyThirdProject.pdb
+C:\Users\roder\Revature\SamanthaR\StringManipulation\obj\Debug\net6.0\MyThirdProject.genruntimeconfig.cache

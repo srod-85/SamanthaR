@@ -1,0 +1,15 @@
+C:\Users\roder\Revature\SamanthaR\MySecondDotnet\obj\Debug\net6.0\MySecondDotnet.csproj.AssemblyReference.cache
+C:\Users\roder\Revature\SamanthaR\MySecondDotnet\obj\Debug\net6.0\MySecondDotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roder\Revature\SamanthaR\MySecondDotnet\obj\Debug\net6.0\MySecondDotnet.AssemblyInfoInputs.cache
+C:\Users\roder\Revature\SamanthaR\MySecondDotnet\obj\Debug\net6.0\MySecondDotnet.AssemblyInfo.cs
+C:\Users\roder\Revature\SamanthaR\MySecondDotnet\obj\Debug\net6.0\MySecondDotnet.csproj.CoreCompileInputs.cache
+C:\Users\roder\Revature\SamanthaR\MySecondDotnet\bin\Debug\net6.0\MySecondDotnet.exe
+C:\Users\roder\Revature\SamanthaR\MySecondDotnet\bin\Debug\net6.0\MySecondDotnet.deps.json
+C:\Users\roder\Revature\SamanthaR\MySecondDotnet\bin\Debug\net6.0\MySecondDotnet.runtimeconfig.json
+C:\Users\roder\Revature\SamanthaR\MySecondDotnet\bin\Debug\net6.0\MySecondDotnet.dll
+C:\Users\roder\Revature\SamanthaR\MySecondDotnet\bin\Debug\net6.0\ref\MySecondDotnet.dll
+C:\Users\roder\Revature\SamanthaR\MySecondDotnet\bin\Debug\net6.0\MySecondDotnet.pdb
+C:\Users\roder\Revature\SamanthaR\MySecondDotnet\obj\Debug\net6.0\MySecondDotnet.dll
+C:\Users\roder\Revature\SamanthaR\MySecondDotnet\obj\Debug\net6.0\ref\MySecondDotnet.dll
+C:\Users\roder\Revature\SamanthaR\MySecondDotnet\obj\Debug\net6.0\MySecondDotnet.pdb
+C:\Users\roder\Revature\SamanthaR\MySecondDotnet\obj\Debug\net6.0\MySecondDotnet.genruntimeconfig.cache

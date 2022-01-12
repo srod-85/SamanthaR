@@ -1,0 +1,15 @@
+C:\Users\roder\Revature\SamanthaR\FizzBuzzGame\bin\Debug\net6.0\FizzBuzzGame.exe
+C:\Users\roder\Revature\SamanthaR\FizzBuzzGame\bin\Debug\net6.0\FizzBuzzGame.deps.json
+C:\Users\roder\Revature\SamanthaR\FizzBuzzGame\bin\Debug\net6.0\FizzBuzzGame.runtimeconfig.json
+C:\Users\roder\Revature\SamanthaR\FizzBuzzGame\bin\Debug\net6.0\FizzBuzzGame.dll
+C:\Users\roder\Revature\SamanthaR\FizzBuzzGame\bin\Debug\net6.0\ref\FizzBuzzGame.dll
+C:\Users\roder\Revature\SamanthaR\FizzBuzzGame\bin\Debug\net6.0\FizzBuzzGame.pdb
+C:\Users\roder\Revature\SamanthaR\FizzBuzzGame\obj\Debug\net6.0\FizzBuzzGame.csproj.AssemblyReference.cache
+C:\Users\roder\Revature\SamanthaR\FizzBuzzGame\obj\Debug\net6.0\FizzBuzzGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roder\Revature\SamanthaR\FizzBuzzGame\obj\Debug\net6.0\FizzBuzzGame.AssemblyInfoInputs.cache
+C:\Users\roder\Revature\SamanthaR\FizzBuzzGame\obj\Debug\net6.0\FizzBuzzGame.AssemblyInfo.cs
+C:\Users\roder\Revature\SamanthaR\FizzBuzzGame\obj\Debug\net6.0\FizzBuzzGame.csproj.CoreCompileInputs.cache
+C:\Users\roder\Revature\SamanthaR\FizzBuzzGame\obj\Debug\net6.0\FizzBuzzGame.dll
+C:\Users\roder\Revature\SamanthaR\FizzBuzzGame\obj\Debug\net6.0\ref\FizzBuzzGame.dll
+C:\Users\roder\Revature\SamanthaR\FizzBuzzGame\obj\Debug\net6.0\FizzBuzzGame.pdb
+C:\Users\roder\Revature\SamanthaR\FizzBuzzGame\obj\Debug\net6.0\FizzBuzzGame.genruntimeconfig.cache

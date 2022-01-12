@@ -1,0 +1,5 @@
+C:\Users\roder\Revature\SamanthaR\SwitchStatements\obj\Debug\net6.0\MyForthProject.csproj.AssemblyReference.cache
+C:\Users\roder\Revature\SamanthaR\SwitchStatements\obj\Debug\net6.0\MyForthProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roder\Revature\SamanthaR\SwitchStatements\obj\Debug\net6.0\MyForthProject.AssemblyInfoInputs.cache
+C:\Users\roder\Revature\SamanthaR\SwitchStatements\obj\Debug\net6.0\MyForthProject.AssemblyInfo.cs
+C:\Users\roder\Revature\SamanthaR\SwitchStatements\obj\Debug\net6.0\MyForthProject.csproj.CoreCompileInputs.cache
